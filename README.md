@@ -124,7 +124,8 @@ python main2.py
 
 ## 📞 Contact
 - **Gaurav Kulkarni**
-- [LinkedIn](#www.linkedin.com/in/gaurav-kulkarni-742276243) | [Gmail](#gmmusic711@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/gaurav-kulkarni-742276243) | [Gmail](mailto:gmmusic713@gmail.com)
+
 
 ---
 
