@@ -54,10 +54,6 @@ pip install -r requirements.txt
 4. **Run the Application:**
 ```bash
 python main2.py
-```
-
-5. **Visit the Application:**
-- Open your browser and navigate to: [http://127.0.0.1:5000/](http://127.0.0.1:5000/)
 
 ---
 
